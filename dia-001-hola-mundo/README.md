@@ -1,12 +1,24 @@
-# 🧠 365 Días de Programación – Reto Diario
+# Día 001 – Hola Mundo con HTML, CSS y JS
 
-¡Hola! Soy Luis Miranda (Wuicho) y este repositorio contiene mi reto personal de **re aprender a programar desde cero hasta nivel avanzado** a lo largo de **365 días**, creando **1 proyecto práctico por día**.
+## 🎯 Objetivo
+Crear una estructura web básica y ver cómo HTML, CSS y JS trabajan juntos.
 
-## 🚀 Objetivo
+## 🧱 Tecnologías usadas
+- HTML5
+- CSS3
+- JavaScript
 
-Aprender programación de forma intensiva y estructurada, creando un portafolio sólido desde lo más básico hasta lo avanzado. Cada proyecto está pensado para enseñar un concepto y desarrollar una habilidad concreta.
+## 📂 Archivos
+- `index.html`: estructura del contenido.
+- `style.css`: estilos visuales.
+- `script.js`: interacción y lógica.
 
-## 🧩 Estructura del reto
+## ⚙️ Cómo usar
+Abre el archivo `index.html` en tu navegador y haz clic en el botón para ver el mensaje.
 
-Cada día corresponde a una carpeta dentro del repositorio:
+## 📚 Lo aprendido
+- Cómo estructurar una página web.
+- Cómo conectar HTML con CSS y JS.
+- Crear una función de JavaScript básica.
 
+---
